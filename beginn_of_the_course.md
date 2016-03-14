@@ -1,2 +1,0 @@
-# beginn of the course
-
