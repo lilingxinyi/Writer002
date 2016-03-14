@@ -39,4 +39,5 @@
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
+* 第零讲：开学典礼
 
