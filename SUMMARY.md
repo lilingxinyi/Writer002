@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [自序](chapter00/preface.md)
+* [beginn of the course](beginn_of_the_course.md)
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
    * [作业](chapter01/assignment.md)
@@ -39,5 +40,4 @@
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
-* [beginn of the course](beginn_of_the_course.md)
 
