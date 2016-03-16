@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [自序](chapter00/preface.md)
-   * [Readme](chapter00/readme.md)
+   * [Preface](chapter00/readme.md)
    * [开学典礼 essay](chapter00/kai_xue_dian_li_zi_xu.md)
    * [Q&A note](chapter00/q&a_note.md)
 * [第一讲：教不会的写作](chapter01/README.md)
