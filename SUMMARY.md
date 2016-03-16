@@ -7,7 +7,6 @@
    * [Q&A note](chapter00/q&a_note.md)
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
-   * [随笔](chapter01/essay.md)
    * [作业](chapter01/assignment.md)
 * [第二讲：写作的最小模型、最小故事与最小行动](chapter02/README.md)
    * [笔记](chapter02/note.md)
